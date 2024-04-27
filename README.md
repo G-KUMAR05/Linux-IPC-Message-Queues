@@ -90,8 +90,7 @@ int main()
 
 ## OUTPUT
 ![323339920-92240eb9-ab6b-49fc-a962-e229e4d045ff](https://github.com/G-KUMAR05/Linux-IPC-Message-Queues/assets/133198953/c68040d9-db70-4de8-b9d0-f5ba641f4e6c)
-## RESULT
-The programs are executed successfully.
+
 
 
 
